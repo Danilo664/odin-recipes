@@ -7,3 +7,5 @@ everyting is working fine and im proud of what i learned, despite this being the
 I added Go Back button , so that you can come back to index page
 
 Also might make some of my recipes myself
+
+Edit: didnt know git commit will add comment to every single file/folder 
