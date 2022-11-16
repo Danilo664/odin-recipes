@@ -1,2 +1,2 @@
 # odin-recipes
-Recepies for delicious stuff
+Recipes for delicious stuff
